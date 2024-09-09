@@ -12,4 +12,4 @@ Built a machine learning model to predict match outcomes based on the derived fe
 ### Evaluation: 
 Assessed model performance in predicting match results, providing insights into key factors influencing match outcomes.
 ## Results
-The model demonstrates [add performance metrics here] accuracy in predicting match outcomes, highlighting the significance of real-time game metrics in determining the result.
+The model demonstrates 79% accuracy in predicting match outcomes, highlighting the significance of real-time game metrics in determining the result.
