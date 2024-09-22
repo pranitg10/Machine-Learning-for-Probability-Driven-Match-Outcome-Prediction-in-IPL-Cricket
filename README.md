@@ -13,3 +13,5 @@ Built a machine learning model to predict match outcomes based on the derived fe
 Assessed model performance in predicting match results, providing insights into key factors influencing match outcomes.
 ## Results
 The logistic regression model demonstrates 79% accuracy in predicting match outcomes, highlighting the significance of real-time game metrics in determining the result.
+### Dataset:
+https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020/data
