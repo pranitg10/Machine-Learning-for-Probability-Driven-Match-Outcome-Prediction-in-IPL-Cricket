@@ -1,6 +1,8 @@
 # Machine Learning for Probability-Driven Match Outcome Prediction in IPL Cricket
+
 ## Objective
-This project aims to predict the outcomes of IPL cricket matches using machine learning models. By analyzing in-game dynamics such as score progression, run rates, and wickets, the model estimates the probability of a team's victory during the match.
+
+This project aims to estimate the probability of winning and losing of batting team in second inning using machine learning models based on various features such as team, score progression, run rates, location, balls left and wickets left, the model estimates the probability of a team's victory during the match.
 
 ## Project Overview
 ### Data Collection: 
